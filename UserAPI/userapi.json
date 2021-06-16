@@ -1,0 +1,38 @@
+[
+    {
+        "name":"kilol sharma",
+        "address":"chandausi",
+        "security":"active",
+        "occup":"fresher"
+    },
+    {
+        "name":"ram sharma",
+        "address":"farukabad",
+        "security":"active",
+        "occup":"fresher"
+    },
+    {
+        "name":"atul jayshiv",
+        "address":"rampur",
+        "security":"active",
+        "occup":"experience"
+    },
+    {
+        "name":"manohar mishra",
+        "address":"delhi",
+        "security":"non-active",
+        "occup":"delhi"
+    },
+    {
+        "name":"puja sharma",
+        "address":"sambhal",
+        "security":"active",
+        "occup":"retire"
+    },
+    {
+        "name":"lokesh gangwar",
+        "address":"nurpur",
+        "security":"non-active",
+        "occup":"unemployee"
+    }
+]
